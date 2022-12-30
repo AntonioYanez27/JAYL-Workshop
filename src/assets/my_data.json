@@ -1,0 +1,11 @@
+{
+    "my_data":[
+        {
+            "nombre":"Jose Antonio Yanez Lomas",
+            "edad": 24,
+            "is": "JAYL",
+            "ciudad": "Ecatepec",
+            "estado": "Mexico"
+        }
+    ]  
+}
